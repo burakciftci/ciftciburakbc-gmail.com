@@ -24,7 +24,7 @@ namespace C1.Infrastructure.Utils
                     if (!isComplete)
                     {
                         result.IsSucces = false;
-                        result.Message = "!!!!! Rovers May Bupm or Out of Bounds. ARE U SURE YOU WANT DO THIS !!!!!";
+                        result.Message = "!!!!!! Rovers May Bupm or Out of Bounds. ARE U SURE YOU WANT DO THIS !!!!!";
                         return result;
                     }
 
